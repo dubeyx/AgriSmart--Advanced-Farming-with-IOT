@@ -1,5 +1,7 @@
 # AgriSmart---Advanced-Farming-with-IOT
 
+![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/blob/main/AgriSmart-Header.png)
+
 Smart Prediction of Type of crop based on soil parameters
 
 Real Time Monitoring of Moister, Temperature and Humidity of Soil
