@@ -16,6 +16,10 @@ Humidity
 Soil Moisture 
 Node MCU ESP8266
 
+![WhatsApp Image 2023-04-10 at 22 48 30](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/8f5ae928-6dfe-4c9f-b896-7c2274d5c38f)
+
+
+
 ![image](https://user-images.githubusercontent.com/94775233/236688792-3e1468e9-fe20-42f4-84cb-39395b51345d.png)
 
 Smart Farming Assistant 
