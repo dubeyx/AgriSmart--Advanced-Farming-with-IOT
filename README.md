@@ -7,7 +7,7 @@ Smart Prediction of Type of crop based on soil parameters
 Real Time Monitoring of Moister, Temperature and Humidity of Soil
 It has advanced rain detection system with PIR sensors for motion monitoring in field
 
-Hardware Parts
+<h1> Hardware Parts </h1>
 
 PIR sensor 
 Rain drop sensor
