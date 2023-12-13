@@ -44,3 +44,22 @@ Smart Weather Forecasting
 Database for tracking Soil parameters every second
 
 ![image](https://user-images.githubusercontent.com/94775233/236689904-496423d4-b1ad-4593-a9ba-1744bf963e2a.png)
+
+Predict Disease Through plant leave
+Supported Crops
+
+Apple
+
+Blueberry
+
+Cherry
+
+Corn
+
+Grape
+
+Pepper
+
+Orange
+
+Tomato
