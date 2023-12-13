@@ -63,3 +63,5 @@ Pepper
 Orange
 
 Tomato
+
+Predict the crop that is most suitable for your field
