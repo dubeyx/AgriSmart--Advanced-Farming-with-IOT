@@ -21,6 +21,15 @@ Node MCU ESP8266
 
 
 
+Getting Real Time price of Crop in your Nearest Mandi
+
+![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/df867577-0093-4cd8-93c9-37ddc780868f)
+
+![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/14e83507-5512-41e4-9234-2ec19cec9da3)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/94775233/236688792-3e1468e9-fe20-42f4-84cb-39395b51345d.png)
 
 Smart Farming Assistant 
