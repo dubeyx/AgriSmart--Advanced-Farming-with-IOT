@@ -25,7 +25,8 @@ Node MCU ESP8266
 
 Smart Farming Assistant 
 
-![image](https://user-images.githubusercontent.com/94775233/236689633-d3db9d15-e343-43c7-a11e-9096710bcb87.png)
+![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/5eb822a5-b14e-4b52-8e5b-4f6cd953b37f)
+
 
 Smart Weather Forecasting 
 
