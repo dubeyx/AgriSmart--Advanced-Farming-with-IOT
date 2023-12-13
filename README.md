@@ -1,6 +1,7 @@
 # AgriSmart---Advanced-Farming-with-IOT
 
-![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/408ba377-020c-4a93-a553-8f723908fe24)
+![image](https://github.com/dubeyx/AgriSmart--Advanced-Farming-with-IOT/assets/94775233/57390e25-8c57-4aec-9034-138a0a31419e)
+
 
 Smart Prediction of Type of crop based on soil parameters
 
